@@ -36,3 +36,4 @@ but instead of having the keyboard pcb be exposed as the final design I found th
 
 The Text Tallky uses a LoRa (Long Range) radio communication to send messages directly between two devices without needing Wi-Fi, mobile data, SIM cards or internet access. Each device uses an ESP32 microcontroller connected to an SX1262 LoRa radio module, which converts digital messages into radio signals and transmits them through an antenna. The receiving device picks up these signals and converts them back into readable text, which is displayed on its screen. Both devices can send and receive messages, allowing two-way communication over long distances. The achievable range depends on factors such as terrain, obstacles, antenna placement and radio settings.
 
+![Display Module](https://make.net.za/wp-content/uploads/2021/10/3ME0700_C.webp)
