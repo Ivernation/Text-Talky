@@ -44,7 +44,7 @@ The Text Tallky uses a LoRa (Long Range) radio communication to send messages di
 
 I'm not trying to make the most complicated power supply in the world and Im in luck as the Esp I chose alredy has an integraded battery chrger meanig all i essentially need is a simple lithium-ion battery
 
-![Display Module](https://www.ecorobotics.com.na/cdn/shop/products/LithiumBatteryChargerTP4156MicroUSB02.png?v=1594473212&width=800)
+![Display Module](https://www.ecorobotics.com.na/cdn/shop/products/WEMOSESP-3201.jpg?v=1584202347&width=1000)
 
 ---
 
