@@ -6,6 +6,7 @@ sure of their compatibility as well as writing this GitHub repository
 
 ### component research          [5 hours, 3pm-8pm]
 
+---
 
 ![Display Module](Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg)
 ![Display Module](Images/Screenshot_20-11-2026_132842_write.as.jpeg)
