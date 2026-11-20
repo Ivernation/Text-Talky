@@ -5,3 +5,5 @@ module andthe legal radio freaqrncies i can use.Along with that i found all the 
 sure of their compatibility as well as writing this GitHub repository
 
 ### component research          [5 hours, 3pm-8pm]
+
+Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg
