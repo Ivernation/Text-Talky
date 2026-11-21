@@ -11,6 +11,8 @@ sure of their compatibility as well as writing this GitHub repository
 ![Display Module](Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg)
 ![Display Module](Images/Screenshot_20-11-2026_132842_write.as.jpeg)
 
+<img src="Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg" width="300">
+
 # Nove 21 2026 - Nov 22 2026
 
 
