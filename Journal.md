@@ -8,10 +8,24 @@ sure of their compatibility as well as writing this GitHub repository
 
 ---
 
-![Display Module](Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg)
-![Display Module](Images/Screenshot_20-11-2026_132842_write.as.jpeg)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg" width="700">
+    </td>
+  </tr>
+</table>
 
-<img src="Images/Screenshot_20-11-2026_132653_www.ecorobotics.com.na.jpeg" width="300">
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Images/Screenshot_20-11-2026_132842_write.as.jpeg" width="700">
+    </td>
+  </tr>
+</table>
+
 
 # Nove 21 2026 - Nov 22 2026
 
