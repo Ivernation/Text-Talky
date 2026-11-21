@@ -1,3 +1,5 @@
+
+
 # Nov 20 2026
 
 today i mainly did research on the different components id need for the project. The most hard part was finding a suitable radio
@@ -37,4 +39,22 @@ I've been working on the PCB a lot. First, I lost my previous PCB design 😅 My
 
 
 Along with that, I had to do a lot more research simultaneously about the different components I'm using and checking what pins go where to the esp. things like the rf module I switched to the surface mounted version so I can use jlcpcb's sme service rather than buying and soldering it with headers myself
+Images/Screenshot_21-11-2026_15247_easyeda.com.jpeg
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Images/Screenshot_21-11-2026_15247_easyeda.com.jpeg" width="700">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Images/Screenshot_20-11-2026_132842_write.as.jpeg" width="700">
+    </td>
+  </tr>
+</table>
